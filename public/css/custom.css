@@ -1,0 +1,43 @@
+.label {
+    border-radius: 12px;
+    color: white;
+    padding: 5px 12px;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+.panel-body {
+    /* border: 1px solid #ccc; */
+    border: 1px solid #17a2b8;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.panel-title {
+    position: absolute;
+    background: #17a2b8;
+    margin-top: -30px;
+    padding-left: 10px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+
+
+
+.remove_field{
+    margin-top: 4px;
+    border: 1px solid #333;
+    padding: 2px 8px;
+    color: #333;
+    border-radius: 2px;
+    background: #efefef;
+    height: 30px;
+    margin-left:30px;
+}
+.add_input_fields{
+    display: flex;
+}
